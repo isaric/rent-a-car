@@ -1,4 +1,7 @@
 # rent-a-car
+
+![Gradle build](https://github.com/isaric/rent-a-car/actions/workflows/gradle.yml/badge.svg)
+
 A demo REST Api service written in Java with Spring Boot
 
 Swagger API documentation can be accessed at /swagger-ui/index.html
